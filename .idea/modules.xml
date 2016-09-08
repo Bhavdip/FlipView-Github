@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlipView-Github.iml" filepath="$PROJECT_DIR$/FlipView-Github.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlipViewApp/FlipViewApp.iml" filepath="$PROJECT_DIR$/FlipViewApp/FlipViewApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flipview/Flipview.iml" filepath="$PROJECT_DIR$/Flipview/Flipview.iml" />
+    </modules>
+  </component>
+</project>
